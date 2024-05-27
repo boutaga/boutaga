@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @boutaga
-- 👀 I’m interested in RDBMS and Optimizer internal to do performance tuning. 
+- 👀 I’m interested in RDBMS and Optimizer internals and do performance tuning. 
 - 🌱 I’m currently learning SQL, C#, Perl...
 
 <!---
