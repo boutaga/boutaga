@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @boutaga
-- 👀 I’m interested in RDBMS and Optimizer internals and do performance tuning. 
-- 🌱 I’m currently learning SQL, C#, Perl...
+- 👀 I’m interested in databases, data flows and how to optimize them.
+
+
 
 <!---
 boutaga/boutaga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
